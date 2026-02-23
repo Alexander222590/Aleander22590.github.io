@@ -1,0 +1,27 @@
+/*
+ * Main styles for Aleander22590.github.io
+ * Author: Alexander222590
+ * Created: 2026-02-23
+ */
+
+/* Layout Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Additional styles can be added here */
